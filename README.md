@@ -11,7 +11,3 @@ Either Get_Next_Line or Ft_Printf:
 - [Ft_Printf](https://github.com/myagjz/42-Exam_Rank_03/tree/main/ft_printf) 
 
 if you can make the code shorter, but readable, let me know!
-
-# Exam Practice Tool
-
-Practice the exam just like you would in the real exam with this tool - https://github.com/JCluzet/42_EXAM
